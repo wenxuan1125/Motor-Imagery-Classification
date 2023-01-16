@@ -1,0 +1,15 @@
+Train Epoch: 1 [0/108 (0%)]	Loss: 0.848306	Accuracy: 15/32 46.875000
+Test set: Average loss: 0.9284, Accuracy: 6/12 (50%)
+Train Epoch: 2 [0/108 (0%)]	Loss: 0.731863	Accuracy: 20/32 62.500000
+Test set: Average loss: 0.7140, Accuracy: 6/12 (50%)
+Train Epoch: 3 [0/108 (0%)]	Loss: 0.739259	Accuracy: 15/32 46.875000
+Test set: Average loss: 0.7093, Accuracy: 6/12 (50%)
+Train Epoch: 4 [0/108 (0%)]	Loss: 0.632834	Accuracy: 20/32 62.500000
+Test set: Average loss: 0.6943, Accuracy: 6/12 (50%)
+Train Epoch: 5 [0/108 (0%)]	Loss: 0.806311	Accuracy: 15/32 46.875000
+Test set: Average loss: 0.6946, Accuracy: 6/12 (50%)
+Train Epoch: 6 [0/108 (0%)]	Loss: 0.637752	Accuracy: 17/32 53.125000
+Test set: Average loss: 0.6932, Accuracy: 6/12 (50%)
+Train Epoch: 7 [0/108 (0%)]	Loss: 0.806615	Accuracy: 18/32 56.250000
+Test set: Average loss: 0.7040, Accuracy: 6/12 (50%)
+/home/bsplab/anaconda3/envs/project/lib/python3.8/site-packages/torch/nn/modules/conv.py:439: UserWarning: Using padding='same' with even kernel lengths and odd dilation may require a zero-padded copy of the input be created (Triggered internally at  ../aten/src/ATen/native/Convolution.cpp:660.)

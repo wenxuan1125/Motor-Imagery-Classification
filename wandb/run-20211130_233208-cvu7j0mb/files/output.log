@@ -1,0 +1,103 @@
+Train Epoch: 1 [0/108 (0%)]	Loss: 1.089530	Accuracy: 15/32 46.875000
+Test set: Average loss: 0.8076, Accuracy: 6/12 (50%)
+Train Epoch: 2 [0/108 (0%)]	Loss: 0.842956	Accuracy: 16/32 50.000000
+Test set: Average loss: 0.7369, Accuracy: 6/12 (50%)
+Train Epoch: 3 [0/108 (0%)]	Loss: 0.846550	Accuracy: 13/32 40.625000
+Test set: Average loss: 0.7121, Accuracy: 6/12 (50%)
+Train Epoch: 4 [0/108 (0%)]	Loss: 0.741179	Accuracy: 16/32 50.000000
+Test set: Average loss: 0.7020, Accuracy: 6/12 (50%)
+Train Epoch: 5 [0/108 (0%)]	Loss: 0.726054	Accuracy: 16/32 50.000000
+Test set: Average loss: 0.7240, Accuracy: 6/12 (50%)
+Train Epoch: 6 [0/108 (0%)]	Loss: 0.762045	Accuracy: 16/32 50.000000
+Test set: Average loss: 0.7034, Accuracy: 6/12 (50%)
+Train Epoch: 7 [0/108 (0%)]	Loss: 0.774982	Accuracy: 13/32 40.625000
+Test set: Average loss: 0.6934, Accuracy: 6/12 (50%)
+Train Epoch: 8 [0/108 (0%)]	Loss: 0.677503	Accuracy: 17/32 53.125000
+/home/bsplab/anaconda3/envs/project/lib/python3.8/site-packages/torch/nn/modules/conv.py:439: UserWarning: Using padding='same' with even kernel lengths and odd dilation may require a zero-padded copy of the input be created (Triggered internally at  ../aten/src/ATen/native/Convolution.cpp:660.)
+  return F.conv2d(input, weight, bias, self.stride,
+Test set: Average loss: 0.6934, Accuracy: 6/12 (50%)
+Train Epoch: 9 [0/108 (0%)]	Loss: 0.706942	Accuracy: 18/32 56.250000
+Test set: Average loss: 0.6951, Accuracy: 6/12 (50%)
+Train Epoch: 10 [0/108 (0%)]	Loss: 0.799907	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.7168, Accuracy: 6/12 (50%)
+Train Epoch: 11 [0/108 (0%)]	Loss: 0.765185	Accuracy: 18/32 56.250000
+Test set: Average loss: 0.7005, Accuracy: 6/12 (50%)
+Train Epoch: 12 [0/108 (0%)]	Loss: 0.824311	Accuracy: 9/32 28.125000
+Test set: Average loss: 0.7102, Accuracy: 6/12 (50%)
+Train Epoch: 13 [0/108 (0%)]	Loss: 0.669751	Accuracy: 18/32 56.250000
+Test set: Average loss: 0.7766, Accuracy: 6/12 (50%)
+Train Epoch: 14 [0/108 (0%)]	Loss: 0.685117	Accuracy: 18/32 56.250000
+Test set: Average loss: 0.8107, Accuracy: 6/12 (50%)
+Train Epoch: 15 [0/108 (0%)]	Loss: 0.794836	Accuracy: 17/32 53.125000
+Test set: Average loss: 0.7250, Accuracy: 6/12 (50%)
+Train Epoch: 16 [0/108 (0%)]	Loss: 0.808286	Accuracy: 15/32 46.875000
+Test set: Average loss: 0.7048, Accuracy: 6/12 (50%)
+Train Epoch: 17 [0/108 (0%)]	Loss: 0.662057	Accuracy: 19/32 59.375000
+Test set: Average loss: 0.7607, Accuracy: 6/12 (50%)
+Train Epoch: 18 [0/108 (0%)]	Loss: 0.785733	Accuracy: 13/32 40.625000
+Test set: Average loss: 0.7300, Accuracy: 6/12 (50%)
+Train Epoch: 19 [0/108 (0%)]	Loss: 0.736593	Accuracy: 18/32 56.250000
+Test set: Average loss: 0.6940, Accuracy: 6/12 (50%)
+Train Epoch: 20 [0/108 (0%)]	Loss: 0.639974	Accuracy: 21/32 65.625000
+Test set: Average loss: 0.7383, Accuracy: 6/12 (50%)
+Train Epoch: 21 [0/108 (0%)]	Loss: 0.720649	Accuracy: 17/32 53.125000
+Test set: Average loss: 0.7337, Accuracy: 6/12 (50%)
+Train Epoch: 22 [0/108 (0%)]	Loss: 0.821406	Accuracy: 15/32 46.875000
+Test set: Average loss: 0.7001, Accuracy: 6/12 (50%)
+Train Epoch: 23 [0/108 (0%)]	Loss: 0.764627	Accuracy: 16/32 50.000000
+Test set: Average loss: 0.6955, Accuracy: 6/12 (50%)
+Train Epoch: 24 [0/108 (0%)]	Loss: 0.685815	Accuracy: 19/32 59.375000
+Test set: Average loss: 0.6968, Accuracy: 6/12 (50%)
+Train Epoch: 25 [0/108 (0%)]	Loss: 0.796787	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.6978, Accuracy: 6/12 (50%)
+Train Epoch: 26 [0/108 (0%)]	Loss: 0.752790	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.7052, Accuracy: 6/12 (50%)
+Train Epoch: 27 [0/108 (0%)]	Loss: 0.841733	Accuracy: 12/32 37.500000
+Test set: Average loss: 0.7011, Accuracy: 6/12 (50%)
+Train Epoch: 28 [0/108 (0%)]	Loss: 0.756024	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.7468, Accuracy: 6/12 (50%)
+Train Epoch: 29 [0/108 (0%)]	Loss: 0.815677	Accuracy: 16/32 50.000000
+Test set: Average loss: 0.7364, Accuracy: 6/12 (50%)
+Train Epoch: 30 [0/108 (0%)]	Loss: 0.734818	Accuracy: 17/32 53.125000
+Test set: Average loss: 0.6936, Accuracy: 6/12 (50%)
+Train Epoch: 31 [0/108 (0%)]	Loss: 0.744876	Accuracy: 16/32 50.000000
+Test set: Average loss: 0.7078, Accuracy: 6/12 (50%)
+Train Epoch: 32 [0/108 (0%)]	Loss: 0.749340	Accuracy: 13/32 40.625000
+Test set: Average loss: 0.6948, Accuracy: 6/12 (50%)
+Train Epoch: 33 [0/108 (0%)]	Loss: 0.770392	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.6945, Accuracy: 6/12 (50%)
+Train Epoch: 34 [0/108 (0%)]	Loss: 0.758136	Accuracy: 13/32 40.625000
+Test set: Average loss: 0.6996, Accuracy: 6/12 (50%)
+Train Epoch: 35 [0/108 (0%)]	Loss: 0.685769	Accuracy: 20/32 62.500000
+Test set: Average loss: 0.6961, Accuracy: 6/12 (50%)
+Train Epoch: 36 [0/108 (0%)]	Loss: 0.735660	Accuracy: 15/32 46.875000
+Test set: Average loss: 0.6981, Accuracy: 6/12 (50%)
+Train Epoch: 37 [0/108 (0%)]	Loss: 0.688280	Accuracy: 17/32 53.125000
+Test set: Average loss: 0.7064, Accuracy: 6/12 (50%)
+Train Epoch: 38 [0/108 (0%)]	Loss: 0.651630	Accuracy: 19/32 59.375000
+Test set: Average loss: 0.7081, Accuracy: 6/12 (50%)
+Train Epoch: 39 [0/108 (0%)]	Loss: 0.761896	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.6988, Accuracy: 6/12 (50%)
+Train Epoch: 40 [0/108 (0%)]	Loss: 0.705601	Accuracy: 17/32 53.125000
+Test set: Average loss: 0.6978, Accuracy: 6/12 (50%)
+Train Epoch: 41 [0/108 (0%)]	Loss: 0.704771	Accuracy: 16/32 50.000000
+Test set: Average loss: 0.7379, Accuracy: 6/12 (50%)
+Train Epoch: 42 [0/108 (0%)]	Loss: 0.818582	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.7173, Accuracy: 6/12 (50%)
+Train Epoch: 43 [0/108 (0%)]	Loss: 0.645385	Accuracy: 20/32 62.500000
+Test set: Average loss: 0.7148, Accuracy: 6/12 (50%)
+Train Epoch: 44 [0/108 (0%)]	Loss: 0.777490	Accuracy: 12/32 37.500000
+Test set: Average loss: 0.6947, Accuracy: 6/12 (50%)
+Train Epoch: 45 [0/108 (0%)]	Loss: 0.643223	Accuracy: 22/32 68.750000
+Test set: Average loss: 0.6944, Accuracy: 6/12 (50%)
+Train Epoch: 46 [0/108 (0%)]	Loss: 0.723558	Accuracy: 11/32 34.375000
+Test set: Average loss: 0.7039, Accuracy: 6/12 (50%)
+Train Epoch: 47 [0/108 (0%)]	Loss: 0.751877	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.6968, Accuracy: 6/12 (50%)
+Train Epoch: 48 [0/108 (0%)]	Loss: 0.761592	Accuracy: 15/32 46.875000
+Test set: Average loss: 0.7090, Accuracy: 6/12 (50%)
+Train Epoch: 49 [0/108 (0%)]	Loss: 0.859877	Accuracy: 14/32 43.750000
+Test set: Average loss: 0.7117, Accuracy: 6/12 (50%)
+Train Epoch: 50 [0/108 (0%)]	Loss: 0.661578	Accuracy: 19/32 59.375000
+Test set: Average loss: 0.7199, Accuracy: 6/12 (50%)
+Normalized confusion matrix
